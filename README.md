@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">- 🎓Cursando Engenharia de Software (UnB)<br>- 👨‍💻 Desenvolvedor Full-Stack<br>- 📊 Analista de dados<br>-✨ Interesse por vaga de estágio<br>- 🏆 Gosto de desafios <br>- 🌍</h3>
+<h3 align="left">- 🎓Cursando Engenharia de Software (UnB)<br>- 👨‍💻 Desenvolvedor Full-Stack<br>- 📊 Analista de dados<br>-✨ Interesse por vaga de estágio<br>- 🏆 Gosto de desafios</h3>
 
 ###
 
@@ -73,7 +73,7 @@
 
 ###
 
-<p align="left">👋😎👨‍💻✨📊🖥️🏆🏅🌍🚀📚🎓💾✅✔️</p>
+--*<p align="left">👋😎👨‍💻✨📊🖥️🏆🏅🌍🚀📚🎓💾✅✔️</p>*--
 
 ###
 
