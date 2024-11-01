@@ -67,13 +67,9 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Szervinsk/Szervinsk/output/snake.svg" alt="Snake animation" />
 
 ###
-
---*<p align="left">👋😎👨‍💻✨📊🖥️🏆🏅🌍🚀📚🎓💾✅✔️</p>*--
 
 ###
 
