@@ -67,7 +67,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Szervinsk/Szervinsk/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Szervinsk/Szervinsk/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
