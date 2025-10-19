@@ -62,19 +62,19 @@
 
 <blockquote>
   <h4><a href="https://github.com/Szervinsk/SalvaDocs">SalvaDocs - Plataforma de Análise Inteligente de Documentos</a></h4>
-  [cite_start]<p>Uma aplicação full-stack que utiliza Inteligência Artificial para extrair dados e gerar resumos automáticos de documentos PDF, otimizando a análise de textos não estruturados. [cite: 113, 116]</p>
+  <p>Uma aplicação full-stack que utiliza Inteligência Artificial para extrair dados e gerar resumos automáticos de documentos PDF, otimizando a análise de textos não estruturados.</p>
   <div style="display: flex; gap: 8px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/IA-4A4A4A?style=for-the-badge&logo=openai&logoColor=white" />
   </div>
 </blockquote>
 
 <blockquote>
   <h4><a href="https://github.com/unb-mds/ParticipeMais">Participe+ - Engajamento Cívico com IA</a></h4>
-  [cite_start]<p>Plataforma que coleta dados do site Brasil Participativo e usa IA (LangChain, LLMs) para resumir políticas públicas, tornando a informação mais acessível e promovendo a interação social. [cite: 119]</p>
+  <p>Plataforma que coleta dados do site Brasil Participativo e usa IA (LangChain, LLMs) para resumir políticas públicas, tornando a informação mais acessível e promovendo a interação social.</p>
   <div style="display: flex; gap: 8px;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -86,7 +86,7 @@
 
 <blockquote>
   <h4><a href="https://github.com/y123yuri/Projeto-ds">UnBook - Avaliação Colaborativa de Professores</a></h4>
-  <p>Aplicação web para estudantes da UnB, permitindo a avaliação anônima de professores. [cite_start]Utiliza web scraping para coletar dados da plataforma acadêmica (SIGAA) e um back-end seguro em Django. [cite: 125, 130, 131]</p>
+  <p>Aplicação web para estudantes da UnB, permitindo a avaliação anônima de professores. Utiliza web scraping para coletar dados da plataforma acadêmica (SIGAA) e um back-end seguro em Django.</p>
   <div style="display: flex; gap: 8px;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -101,8 +101,8 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Szervinsk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szervinsk&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Szervinsk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szervinsk&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center" style="padding-top: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szervinsk&theme=dark" alt="GitHub Streak" />
