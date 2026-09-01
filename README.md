@@ -1,115 +1,102 @@
-<div align="center" style="padding-top: 20px; padding-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/matheusszervinsk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:mathszer1103@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.youtube.com/@Szervinsk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=szer1103_12639&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+<div align="center">
+
+  # Matheus Ribeiro Szervinsk
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+UnB;Full+Stack+Developer+(Python+%7C+PHP+%7C+React);Cloud%2C+DevOps+%26+Microservices;Automated+Testing+%26+Quality+Assurance)](https://git.io/typing-svg)
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/matheusszervinsk" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mathszer1103@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://github.com/Szervinsk?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
 </div>
 
 ---
 
-### 👋 Hello! I'm Matheus Ribeiro Szervinsk
-**Software Engineer | Full-Stack Developer | Automation & Integrations**
+### 🇧🇷 Sobre Mim & Bagagem Técnica
 
-I am a Software Engineering student at the University of Brasília (UnB) with a strong foundation in building scalable web applications, robust REST APIs, and automated workflows. My expertise bridges the gap between high-performance back-end architectures and dynamic front-end interfaces, always focusing on writing clean, maintainable code.
+Estudante do 7º semestre de **Engenharia de Software na UnB** com vivência prática no desenvolvimento de aplicações escaláveis, automação de rotinas e garantia da qualidade de software.
 
-* 🔭 **Currently working on:** High-performance systems, containerized microservices, and asynchronous connections.
-* 🌱 **Currently exploring:** Advanced AI/LLM integrations, IoT telemetry, and software quality metrics.
-* ⚙️ **My core stack:** Python (Django/Flask), PHP (Laravel), JavaScript (React/Node.js), and relational databases.
-* 📫 **Reach me at:** mathszer1103@gmail.com
-
----
-
-### 🚀 Technical Skills
-
-<table align="center">
-  <tr>
-    <td align="center" width="180">
-      <h4 align="center">Back-End</h4>
-      <a href="https://www.python.org" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>
-      <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" /></a>
-      <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="40" /></a>
-      <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40" /></a>
-      <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></a>
-    </td>
-    <td align="center" width="180">
-      <h4 align="center">Front-End</h4>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>
-      <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>
-    </td>
-     <td align="center" width="180">
-      <h4 align="center">Databases & Cache</h4>
-      <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" /></a>
-      <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>
-      <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>
-      <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="40" /></a>
-    </td>
-    <td align="center" width="180">
-      <h4 align="center">DevOps & System</h4>
-      <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
-      <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>
-      <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>
-      <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" /></a>
-    </td>
-  </tr>
-</table>
+* **Back-End & Microsserviços:** Experiência com arquiteturas assíncronas de alto desempenho, criação e consumo de APIs RESTful, gerenciamento de Webhooks, cacheamento com Redis e manipulação de bancos SQL/NoSQL (PostgreSQL, MongoDB).
+* **Front-End & UI:** Construção de interfaces responsivas e acessíveis com foco em componentização, estado global e integração contínua de rotas.
+* **Qualidade de Software (QA):** Mapeamento de cenários de teste, testes de caixa branca e caixa preta, testes unitários, de integração e automação ponta a ponta (E2E) utilizando Jest e Playwright.
+* **Infraestrutura & DevOps:** Administração de ambientes Linux, conteinerização com Docker, configuração de pipelines de CI/CD, versionamento com Git (PRs/Code Reviews) e práticas de privacidade/LGPD.
 
 ---
 
-### 💾 Featured Projects
+### 🇺🇸 About Me & Technical Background
 
-<blockquote>
-  <h4><a href="https://github.com/Szervinsk/SalvaDocs">SalvaDocs - Intelligent Document Analysis Platform</a></h4>
-  <p>A full-stack application that utilizes Artificial Intelligence to extract data and generate automatic summaries from PDF documents, automating workflows and optimizing the analysis of unstructured text.</p>
-  <div style="display: flex; gap: 8px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/AI_Integration-4A4A4A?style=for-the-badge&logo=openai&logoColor=white" />
-  </div>
-</blockquote>
+7th-semester **Software Engineering student at UnB (Brazil)** with hands-on experience in building scalable web architectures, automating workflows, and ensuring software quality.
 
-<blockquote>
-  <h4><a href="https://github.com/Szervinsk">Ratobô (MicroMouse) - Autonomous Robotics & IoT</a></h4>
-  <p>Hardware-software integration project building an autonomous maze-solving robot. Features C/C++ firmware on an ESP32 microcontroller, DFS search algorithms, and high-speed telemetry transmission via WebSockets and MQTT.</p>
-  <div style="display: flex; gap: 8px;">
-    <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-    <img src="https://img.shields.io/badge/IoT-F7DF1E?style=for-the-badge&logo=espressif&logoColor=black" />
-  </div>
-</blockquote>
+* **Back-End & Microservices:** Practical experience in high-performance asynchronous systems, RESTful API design, Webhook management, Redis caching, and SQL/NoSQL databases (PostgreSQL, MongoDB).
+* **Front-End & UI:** Development of responsive, accessible web interfaces focusing on component-driven development and dynamic API integrations.
+* **Software Quality & Testing (QA):** Test scenario mapping, white-box/black-box testing, unit & integration testing, and E2E test automation with Jest and Playwright.
+* **DevOps & Infrastructure:** Linux server administration, Docker containerization, CI/CD pipeline integration, advanced Git workflows (PRs/Code Reviews), and data privacy/LGPD compliance.
 
-<blockquote>
-  <h4><a href="https://github.com/unb-mds/ParticipeMais">Participe+ - Civic Engagement with AI</a></h4>
-  <p>A robust platform collecting data from the "Brasil Participativo" portal. Uses AI (LangChain, LLMs) to summarize public policies and machine learning for data clustering, making government information highly accessible.</p>
-  <div style="display: flex; gap: 8px;">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  </div>
-</blockquote>
+---
 
-<blockquote>
-  <h4><a href="https://github.com/y123yuri/Projeto-ds">UnBook - Collaborative Academic Platform</a></h4>
-  <p>An open-source web application for university students featuring anonymous evaluations. Built with a secure Django back-end and automated web scraping routines to extract public institutional data.</p>
-  <div style="display: flex; gap: 8px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  </div>
-</blockquote>
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+#### **Back-End & Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### **Front-End & UI**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### **Databases, Cache & DevOps**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### **QA, Testing & Management**
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009688?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
 ### 📊 GitHub Analytics
 
-<div align="center" style="padding-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szervinsk&theme=dark" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Szervinsk&show_icons=true&theme=radical&hide_border=true" height="155" alt="Matheus's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szervinsk&layout=compact&theme=radical&hide_border=true" height="155" alt="Top Languages" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szervinsk&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Pinned repositories below highlight core projects and architectures.</sub>
 </div>
